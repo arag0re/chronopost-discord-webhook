@@ -1,7 +1,7 @@
 {
-  "name": "chronopost-discord-weebhook",
+  "name": "chronopost-discord-webhook",
   "version": "1.0.0",
-  "description": "Chronopost notification weebhook for discord",
+  "description": "Chronopost notification webhook for discord",
   "main": "index.js",
   "author": "arag0re.eth <arag0re.eth@sternburg.beer>",
   "scripts": {
