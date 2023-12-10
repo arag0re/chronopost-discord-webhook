@@ -1,0 +1,15 @@
+{
+  "name": "chronopost-discord-weebhook",
+  "version": "1.0.0",
+  "description": "Chronopost notification weebhook for discord",
+  "main": "index.js",
+  "author": "arag0re.eth <arag0re.eth@sternburg.beer>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.5.1",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.2"
+  }
+}
